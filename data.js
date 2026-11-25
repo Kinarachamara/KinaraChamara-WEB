@@ -1,0 +1,2219 @@
+const classData = [
+  {
+    id: "ict-rev",
+    title: "2027 ICT Revision",
+    badge: "Revision + Morning Papers",
+    icon: "🖥️",
+    color: "#f59e0b",
+    cards: [
+      {
+        title: "🎥 Revision Days + Morning Papers",
+        items: [
+          {
+            id: "ictr-malpipewi01book",
+            num: "B01",
+            title: "ඔබ වෙනුවෙන් මල් පිපේවී book 01 (Logic Gate)",
+            links: [
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී book 01",
+                url: "https://drive.google.com/drive/folders/16k_S6V5Y1sQKPfjK6JDizC5rUeoN8-7g?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 01)",
+                url: "https://drive.google.com/file/d/1VM5bmJJpT3PbaKwPcT8O2C3BiH5737hG/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 02)",
+                url: "https://drive.google.com/file/d/1YJLn7_5EWpQyyBjTuw8jqa67t_sSFFrb/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 03)",
+                url: "https://drive.google.com/file/d/197_USCExbKvxxkuy66yCCCc66HRsLFJ3/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 04)",
+                url: "https://drive.google.com/file/d/1Xdfd4Oy6_ipaCXVOVEJDqToesvIFP9kk/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-tute01",
+            num: "📁",
+            title: "Tute set No.01",
+            links: [
+              {
+                type: "pdf",
+                label: "📎 lesson 10 tute 01 book 02 (html).pdf",
+                url: "https://drive.google.com/file/d/1hFwzIT66MATeoZ2GGogONvEgrKAEd-pO/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📎 lesson 06 tute 01 book 01 (network ip address).pdf",
+                url: "https://drive.google.com/file/d/1n3YiknhFbxQDrTOGnLl-MCR3xifrmXSK/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-d01",
+            num: "01",
+            title: "Revision Day 01 (2026-08-11)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/r98grv3n72M?si=VWXMqVTuaUsLb37y" },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 01)",
+                url: "https://drive.google.com/file/d/1VM5bmJJpT3PbaKwPcT8O2C3BiH5737hG/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-d02",
+            num: "02",
+            title: "Revision Day 02 (2026-08-18)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/D_TC0prVkTU" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 01",
+                url: "https://drive.google.com/file/d/1kTvI5dxqcvDupJBf3MM7_NdmSHtNDFaC/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 02)",
+                url: "https://drive.google.com/file/d/1YJLn7_5EWpQyyBjTuw8jqa67t_sSFFrb/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-d03",
+            num: "03",
+            title: "Revision Day 03 (2026-08-25)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/b21W6WNmVGo?si=Dd6CUkuA4wXVIMLN" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 02",
+                url: "https://drive.google.com/file/d/1zyZTxmJAVifTwdYwqhC9JXxfYq7o2HAa/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "✅ Morning Paper No 02 Marking",
+                url: "https://drive.google.com/file/d/1WISGivJTZOUduc1TaaTi6PBwUKmD6AJB/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 03)",
+                url: "https://drive.google.com/file/d/197_USCExbKvxxkuy66yCCCc66HRsLFJ3/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-d04",
+            num: "04",
+            title: "Revision Day 04 (2026-09-01)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/mHp_2uFd4og" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 03",
+                url: "https://drive.google.com/file/d/1krLn7xwHdXb933-ffezU_SAoemaB4WZn/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "✅ Morning Paper No 03 Marking",
+                url: "https://drive.google.com/file/d/1ZcuO4ItB4eaPvwuNMFltWwuo58FMKmpb/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී logic gate (Answer - Week 04)",
+                url: "https://drive.google.com/file/d/1Xdfd4Oy6_ipaCXVOVEJDqToesvIFP9kk/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-malpipewi02book",
+            num: "B02",
+            title: "ඔබ වෙනුවෙන් මල් පිපේවී book 02 (Operating System)",
+            links: [
+              {
+                type: "pdf",
+                label: "📝 ඔබ වෙනුවෙන් මල් පිපේවී book 02",
+                url: "https://drive.google.com/file/d/1sySDuSZmpJNlFqF2wLDHPSSy1seD5QdG/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-tute02",
+            num: "📁",
+            title: "Tute set No.02",
+            links: [
+              {
+                type: "pdf",
+                label: "📎 lesson 06 tute 01 book 02 (network subnet).pdf",
+                url: "https://drive.google.com/file/d/137N1oDjYrhfBrMmWQHUBSQ2KWRrktM1s/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "📎 lesson 10 tute 02 book 01 (CSS).pdf",
+                url: "https://drive.google.com/file/d/1zQJ1bO84PfCZegKPHsYdxhu5Hi_1bLWM/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictr-d05",
+            num: "05",
+            title: "Revision Day 05 (2026-09-08)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/JJWejAGSHko?si=MKmt9s2IDi3xkP7I" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 04",
+                url: "https://drive.google.com/file/d/1TAOADbLDdnPq0sWr11ep1zX9fiK0_fLz/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictr-d06",
+            num: "06",
+            title: "Revision Day 06 (2026-09-15)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/gakDoqB-_gE?si=fhDmtjJPLemKB2_7" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 05",
+                url: "https://drive.google.com/file/d/1tR2ZiUT7KJRakb-WYJ3FnwDTJ0QSvZTw/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictr-d07",
+            num: "07",
+            title: "Revision Day 07 (2026-09-22)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/4QO21LRZhck" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 06",
+                url: "https://drive.google.com/file/d/179ckCSPYIewOUmsKaxflcTtnAmjbA9W8/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictr-osfs",
+            num: "🟡",
+            title: "Operating System Free Seminar",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/sSJzLHvHBmU" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 07",
+                url: "https://drive.google.com/file/d/1OSBMZEnV-Uwih7jw4eK3QgjILURqoONc/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "📎 OS SEMINAR.pdf",
+                url: "https://drive.google.com/file/d/1SKfgfOPBTlKp_Z6Tyo4UbdxYkZjCMcSl/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictr-d08",
+            num: "08",
+            title: "Revision Day 08 (2026-10-06)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/zxXOKXIOykI?si=b_qq-GnQ89sypXSK" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 07",
+                url: "https://drive.google.com/file/d/1OSBMZEnV-Uwih7jw4eK3QgjILURqoONc/view?usp=drivesdk"
+              },
+            ]
+          },
+          {
+            id: "ictr-tute03",
+            num: "📁",
+            title: "Tute set No.03",
+            links: [
+              {
+                type: "pdf",
+                label: "📎 lesson 07 Tute 01 දත්ත සමුදා කළමනාකරණ පද්ධති (BDSM).pdf",
+                url: "https://drive.google.com/file/d/1QycAe1nhC7W4ta1jrq2-Yh0byGR4otpZ/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "ictr-d09",
+            num: "09",
+            title: "Revision Day 09 (2026-10-13)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/7f31ldh6XTM" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 08",
+                url: "https://drive.google.com/file/d/10fx_UVqvRvIXAvnT_I9oEYS392XBKN_I/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "ictr-d10",
+            num: "10",
+            title: "Revision Day 10 (2026-10-20)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/AVr_3XmX5Xw?si=8GqqZfNsvps1C-ml" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 09",
+                url: "https://drive.google.com/file/d/1KYZ_yihQsmXz1wzEeUOYf18oDAlBnX6I/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "ictr-d11",
+            num: "11",
+            title: "Revision Day 11 (2026-11-03)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/5aUMEwHpvpY?si=4wC22AdYD6bXouO9" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 10",
+                url: "https://drive.google.com/file/d/19GK94i2ACN8A2ECDunahynMSv_wIDogR/view?usp=drivesdk"
+              },
+            ]
+          },
+          {
+            id: "ictr-tute04",
+            num: "📁",
+            title: "Tute set No.04",
+            links: [
+              {
+                type: "pdf",
+                label: "📎 lesson 07 Tute 02 දත්ත සමුදා කළමනාකරණ පද්ධති (BDSM).pdf",
+                url: "https://drive.google.com/file/d/1aeRSkSglQb6pt-Z2DFWmk9r3DvfwniOI/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "ictr-d12",
+            num: "12",
+            title: "Revision Day 12 (2026-11-10)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/3oleuPEYfFE?si=9b3vOqOt8sAgTXYg" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 11",
+                url: "https://drive.google.com/file/d/13AdRm5B7tur3Scx71qijFqvnD8WLOg_6/view?usp=drive_link"
+              },
+            ]
+          },
+         {
+            id: "ictr-d13",
+            num: "13",
+            title: "Revision Day 13 (2026-11-17)",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/9op5zNz2clo" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 12",
+                url: "https://drive.google.com/file/d/1T2ywrMQhqrLZLos398T975xZt9Codx1R/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "ictr-d14",
+            num: "14",
+            title: "Revision Day 14 (2026-11-24)",
+            links: [
+              { type: "pending", label: "▶ Video", url: "" },
+              {
+                type: "pending",
+                label: "📄 Morning Paper 13",
+                url: ""
+              },
+            ]
+          },
+        ]
+      }
+    ]
+  },
+  {
+    id: "ict-paper",
+    title: "2027 ICT Paper Class",
+    badge: "2027",
+    icon: "💻",
+    color: "#8b5cf6",
+    cards: [
+      {
+        title: "📝 IRC Papers + Discussion + Marking",
+        items: [
+          {
+            id: "ictp-01",
+            num: "01",
+            title: "IRC Paper No. 01 (2026-08-18)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 01",
+                url: "https://drive.google.com/file/d/1VEecTzrIWvvzTfr66-KGCqvm9xBtw9kH/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/QmpWCi6UkYc?si=AOClFIWIOYwklRIc" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1dUZCaCgJKnBN2nvWObsPykgjDEVXSFG9/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-02",
+            num: "02",
+            title: "IRC Paper No. 02 (2026-08-25)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 02",
+                url: "https://drive.google.com/file/d/1F4TKZcIkdw_uGZ8dcMLHNOFR1kg84dpe/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/3nmmaDiP3KY?si=3JzSPdMuCaO5D_At" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1ZlSYjLKdxK7fHg8ep4zlnzZEnnkElmfq/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-03",
+            num: "03",
+            title: "IRC Paper No. 03 (2026-09-01)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 03",
+                url: "https://drive.google.com/file/d/1kqXtrpntNoeFsUY5BhPGHSu2vZF_sQDP/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/7q2b55AzExk" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/17V71Mp-OjtJIkVGhuYuNpjG86LJnUJSh/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-04",
+            num: "04",
+            title: "IRC Paper No. 04 (2026-09-08)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 04",
+                url: "https://drive.google.com/file/d/1hflCbfo1F6_iCF3fmArVHIvsHsX8V56G/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/EF8fN97tmjM?si=GnMt3UBjqOKPRHfK" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1nzgCAW03MPL1Cvmj1EB9K0P6vS8qLzrA/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-05",
+            num: "05",
+            title: "IRC Paper No. 05 (2026-09-15)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 05",
+                url: "https://drive.google.com/file/d/1Jn6EaWNWCfQny-XQmeKVQeLf8_V3Z0HN/view?usp=drive_link"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/1pEukwRJxEQ?si=pz5h82NdN6piWegz" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1qoQJelSNdb9FT1QrQRYYIlkoVB-KFqsV/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-06",
+            num: "06",
+            title: "IRC Paper No. 06 (2026-09-22)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 06",
+                url: "https://drive.google.com/file/d/1BywRsxQWSyCj1Pqp-rgg18448QapZ3Ul/view?usp=drive_link"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/x2ZC3w6VlQk" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1Q1EorQmFOb3o_e9LgU53bWkCPA69g8aI/view"
+              }
+            ]
+          },
+          {
+            id: "ictp-osfs",
+            num: "🟡",
+            title: "Operating System Free Seminar",
+            links: [
+              { type: "video", label: "▶ Video", url: "https://youtu.be/sSJzLHvHBmU" },
+              {
+                type: "pdf",
+                label: "📄 Morning Paper 07",
+                url: "https://drive.google.com/file/d/1OSBMZEnV-Uwih7jw4eK3QgjILURqoONc/view?usp=drivesdk"
+              },
+              {
+                type: "pdf",
+                label: "📎 OS SEMINAR.pdf",
+                url: "https://drive.google.com/file/d/1SKfgfOPBTlKp_Z6Tyo4UbdxYkZjCMcSl/view?usp=drivesdk"
+              }
+            ]
+          },
+          {
+            id: "ictp-07",
+            num: "07",
+            title: "IRC Paper No. 07 (2026-10-06)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 07",
+                url: "https://drive.google.com/file/d/1uAs3LoZHwtUPBxOi0RI5r_tL_SFr2LKT/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/Zu-v3sZD4Fk?si=oxy4Gw2nEctQbVDg" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1dPGeL8ReaYErX1RckNrVhWzvCrD3INNZ/view?usp=sharing"
+              }
+            ]
+          },
+          {
+            id: "ictp-08",
+            num: "08",
+            title: "IRC Paper No. 08 (2026-10-13)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 08",
+                url: "https://drive.google.com/file/d/1UC4fSosI7jJ-0kwHax-GvCKtjwg_SKuj/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/wdWNZQoALCs?si=5zvbwheHMqBCqXOz" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1LWEhfApd4lL52LknYDcpCnQcjmGA8ner/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictp-09",
+            num: "09",
+            title: "IRC Paper No. 09 (2026-10-20)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 09",
+                url: "https://drive.google.com/file/d/114YLvNzODVaTz_WeC8hJglLlunrkGNE5/view?usp=drivesdk"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/1RGPmUt6udc?si=FGHF2W0xcUyf4WWL" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1fNflPyfFBLHr_FfyTBhzyelDE4oDk5DL/view?usp=sharing"
+              }
+            ]
+          },
+          {
+            id: "ictp-10",
+            num: "10",
+            title: "IRC Paper No. 10 (2026-11-03)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 10",
+                url: "https://drive.google.com/file/d/1TZUe6zWp_exBxjN4KWWp5vQUeCHsXwqT/view?usp=drive_link"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/wTUkic_vW9U?si=VtrZ-Yw962lRSOqy" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/15W6s84gMWU209ndXEb6YCgu1CsEPkhN9/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictp-11",
+            num: "11",
+            title: "IRC Paper No. 11 (2026-11-10)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 11",
+                url: "https://drive.google.com/file/d/1OVKUP7yUQ3zQKxKS8byzfxIfz6jzjWKX/view?usp=drive_link"
+              },
+              { type: "pending", label: "▶ Discussion", url: "" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1B1-0pmD0I-87zN2JrHSJZgwqNcYvKTNb/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictp-12",
+            num: "12",
+            title: "IRC Paper No. 12 (2026-11-17)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 12",
+                url: "https://drive.google.com/file/d/1r_uQFgrZpaMouB1AGliYXcKkfq_VR7Go/view?usp=drive_link"
+              },
+              { type: "video", label: "▶ Discussion", url: "https://youtu.be/LhbfIElAJWo" },
+              {
+                type: "pdf",
+                label: "✅ Marking",
+                url: "https://drive.google.com/file/d/1E7zreFNN_wpM_mNkTHvaR9SZY9ejID0G/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "ictp-13",
+            num: "13",
+            title: "IRC Paper No. 13 (2026-11-24)",
+            links: [
+              {
+                type: "pdf",
+                label: "📄 IRC Paper No. 13",
+                url: "https://drive.google.com/file/d/1t9aQIoG30zjsOrh6APMxVV6o_byqEoFI/view?usp=drive_link"
+              },
+              { type: "pending", label: "▶ Discussion", url: "" },
+              {
+                type: "pending",
+                label: "✅ Marking",
+                url: ""
+              }
+            ]
+          },
+          {
+            id: "ictp-14",
+            num: "14",
+            title: "IRC Paper No. 14 ",
+            links: [
+              {
+                type: "pending",
+                label: "📄 IRC Paper No. 14",
+                url: ""
+              },
+              { type: "pending", label: "▶ Discussion", url: "" },
+              {
+                type: "pending",
+                label: "✅ Marking",
+                url: ""
+              }
+            ]
+          },
+          {
+            id: "ictp-15",
+            num: "15",
+            title: "IRC Paper No. 15 ",
+            links: [
+              {
+                type: "pending",
+                label: "📄 IRC Paper No. 15",
+                url: ""
+              },
+              { type: "pending", label: "▶ Discussion", url: "" },
+              {
+                type: "pending",
+                label: "✅ Marking",
+                url: ""
+              }
+            ]
+          },
+          
+        ]
+      }
+    ]
+  },
+  {
+    id: "sftR",
+    title: "2027 SFT Revision",
+    badge: "2027 A/L Revision",
+    icon: "🔬",
+    color: "#10b981",
+    cards: [
+      {
+        title: "🎥 Revision Recordings + Tutes",
+        items: [
+          {
+            id: "sft-d05",
+            num: "05",
+            title: "Day 05 - 2026-08-01",
+            links: [
+              { type: "video", label: "▶ Recording", url: "https://www.youtube.com/watch?v=YWwWPOvfIrw" }
+            ]
+          },
+          {
+            id: "sft-d06",
+            num: "06",
+            title: "Day 06 - 2026-08-08 part 1",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 6 - Part 01)",
+                url: "https://www.youtube.com/live/M5jxFrDwCL8?si=1ZjNiUkK9Ed-bUyT"
+              }
+            ]
+          },
+          {
+            id: "sft-d07",
+            num: "07",
+            title: "Day 07 - 2026-08-14 part 2",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 6 - Part 02)",
+                url: "https://www.youtube.com/live/OqN7gPxN0c4?si=xHhdDL1b9_-Xv6b_"
+              }
+            ]
+          },
+          {
+            id: "sft-d08",
+            num: "08",
+            title: "Day 08 - 2026-08-21",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording",
+                url: "https://www.youtube.com/live/INgoMTMPoUY?si=fBa0pOumW_WbVOMs"
+              }
+            ]
+          },
+          {
+            id: "sft-df01",
+            num: "📁",
+            title: "Next lesson Tutes (Drive)",
+            links: [
+              {
+                type: "pdf",
+                label: "unit 8 කෝණික චලිතය Revision tute.pdf",
+                url: "https://drive.google.com/file/d/1yzbiO8EK62fhPws4WLxU9Iwgp5SMK5_U/view?usp=drive_link"
+              },
+              {
+                type: "pdf",
+                label: "කාර්ය ශක්තිය හා ක්ෂමතාව Revision tute.pdf",
+                url: "https://drive.google.com/file/d/1AiQ42c9JyAgugTlwrvAKoqB6DVTDG0ZD/view?usp=drive_link"
+              },
+            ]
+          },
+          {
+            id: "sft-d09001",
+            num: "09",
+            title: "Day 09 - 2026-09-04 part 1",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 9 - Part 01)",
+                url: "https://www.youtube.com/live/mUfUaPkFR5g?si=SDe3piFfsd_WwCfV"
+              }
+            ]
+          },
+          {
+            id: "sft-d09002",
+            num: "09",
+            title: "Day 09 - 2026-09-04 part 2",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 9 - Part 02)",
+                url: "https://www.youtube.com/live/rxz7XNY3sN8?si=12criuLh-LMVBvjP"
+              }
+            ]
+          },
+          {
+            id: "sft-d10",
+            num: "10",
+            title: "Day 10 - 2026-09-12",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 10)",
+                url: "https://www.youtube.com/live/Pr5nwd1rzl8"
+              }
+            ]
+          },
+          {
+            id: "sft-d11001",
+            num: "11",
+            title: "Day 11 - 2026-09-19 part 1",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 11 - Part 01)",
+                url: "https://www.youtube.com/live/5izNP6ZROS4?si=PG80I6GL7mD1lMmN"
+              }
+            ]
+          },
+          {
+            id: "sft-d11002",
+            num: "11",
+            title: "Day 11 - 2026-10-03 part 2",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 11 - Part 02)",
+                url: "https://www.youtube.com/watch?v=HeThJ6cl7nw"
+              }
+            ]
+          },
+          {
+            id: "sft-d12001",
+            num: "12",
+            title: "Day 12 - 2026-10-10 part 1",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 12 - Part 01)",
+                url: "https://www.youtube.com/watch?v=1rbyRmzNjtg"
+              }
+            ]
+          },
+          {
+            id: "sft-d12002",
+            num: "12",
+            title: "Day 12 - 2026-10-10 part 2",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 12 - Part 02)",
+                url: "https://www.youtube.com/live/q9Evf18OJVU?si=1bwB4rjKFqEKGta2"
+              }
+            ]
+          },
+          {
+            id: "sft-d13",
+            num: "13",
+            title: "Day 13 - 2026-10-18",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 13)",
+                url: "https://www.youtube.com/live/IoCOf3yfUJI?si=-g61cZNG5EDCqQdl"
+              }
+            ]
+          },
+          {
+            id: "polimar",
+            num: "⚛",
+            title: "Polimer free lesson",
+            links: [
+              {
+                type: "video",
+                label: "▶ Polimer free lesson",
+                url: "https://www.youtube.com/live/UxjlAtlDOyQ?si=5KBl26K9Y1nnyPFQ"
+              },
+              {
+                type: "pdf",
+                label: "polimar.pdf",
+                url: "https://drive.google.com/file/d/134DWbNBa-o0-pyRGN0KHGmYlxnejhGAm/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "sft-d14",
+            num: "14",
+            title: "Day 14 - 2026-11-08",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 14)",
+                url: "https://www.youtube.com/live/guH5rH2RevA?si=nJqBWECUCXS5hgaT"
+              }
+            ]
+          },
+          {
+            id: "sft-d15",
+            num: "15",
+            title: "Day 15 - 2026-11-15",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording (day 15)",
+                url: "https://www.youtube.com/live/0OYTIJmJHEk?si=byDas4p-ta86j9c8"
+              }
+            ]
+          },
+          {
+            id: "sft-d16",
+            num: "16",
+            title: "Day 16",
+            links: [
+              {
+                type: "pending",
+                label: "▶ Recording (day 16)",
+                url: ""
+              }
+            ]
+          },
+          {
+            id: "sft-df02",
+            num: "📁",
+            title: "Next lesson Tutes (Drive)",
+            links: [
+              {
+                type: "pdf",
+                label: "unit 1 ගණිතය Revision tute.pdf",
+                url: "https://drive.google.com/file/d/1hsw9wlyyrjZOvlhNj7BlvzpE0SYe7stZ/view?usp=drive_link"
+              },
+            ]
+          },
+        ]
+      }
+    ]
+  },
+      {
+        id: "SFT-paper",
+        title: "SFT Paper Discussion",
+        badge: "2027 A/L SFT Paper Discussion Malith Wasalage",
+        icon: "🚀",
+        color: "#23d090",
+        cards: [
+          {
+            title: "2027 A/L SFT Paper Discussion Malith Wasalage",
+            items: [
+              {
+                id: "SFT-SilverPaper27",
+                num: "27",
+                title: "Silver Paper No.27",
+                links: [
+                  { type: "video", label: "Silver Paper No.27 Discussion", url: "https://www.youtube.com/live/h0kjgHLrJ9o?si=Hn0BD4qkRVZ_FoSI" },
+                  { type: "pdf", label: "Silver Paper No.27.pdf", url: "https://drive.google.com/file/d/1PGGKSce3An9SKNyv3nReJy83t22TQdeN/view?usp=drive_link" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper28",
+                num: "28",
+                title: "Silver Paper No.28",
+                links: [
+                  { type: "video", label: "Silver Paper No.28 Discussion part 1", url: "https://www.youtube.com/live/X6Vk3C-BQQk?si=SrZGLVF2G-MKVjle" },
+                  { type: "video", label: "Silver Paper No.28 Discussion part 2", url: "https://www.youtube.com/live/Pycr0xSQRuM?si=h3LCh91bozhll96D"},
+                  { type: "pdf", label: "Silver Paper No.28.pdf", url: "https://drive.google.com/file/d/1o2ZyfNBfMR14sd8vXFktGc0kEdSwhJIU/view?usp=drive_link" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper29",
+                num: "29",
+                title: "Silver Paper No.29",
+                links: [
+                  { type: "video", label: "Silver Paper No.29 Discussion", url: "https://www.youtube.com/live/Yxn1saTyfbc?si=pvGVuFzbsGBJNYId" },
+                  { type: "pdf", label: "Silver Paper No.29.pdf", url: "https://drive.google.com/file/d/1CPK_fL9hCHbFoGnzid8oBAz0TL3Io0W2/view?usp=drive_link" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper30",
+                num: "30",
+                title: "Silver Paper No.30",
+                links: [
+                  { type: "pending", label: "Silver Paper No.30 Discussion", url: "" },
+                  { type: "pdf", label: "Silver Paper No.30.pdf", url: "https://drive.google.com/file/d/1BDUjJVkcIr3HhAfRACvO4K-5ZguFM01R/view?usp=drive_link" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper31",
+                num: "31",
+                title: "Silver Paper No.31",
+                links: [
+                  { type: "pending", label: "Silver Paper No.31 Discussion", url: "" },
+                  { type: "pending", label: "Silver Paper No.31.pdf", url: "" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper32",
+                num: "32",
+                title: "Silver Paper No.32",
+                links: [
+                  { type: "pending", label: "Silver Paper No.32 Discussion", url: "" },
+                  { type: "pending", label: "Silver Paper No.32.pdf", url: "" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper33",
+                num: "33",
+                title: "Silver Paper No.33",
+                links: [
+                  { type: "pending", label: "Silver Paper No.33 Discussion", url: "" },
+                  { type: "pending", label: "Silver Paper No.33.pdf", url: "" },
+                ]
+              },
+              {
+                id: "SFT-SilverPaper34",
+                num: "34",
+                title: "Silver Paper No.34",
+                links: [
+                  { type: "pending", label: "Silver Paper No.34 Discussion", url: "" },
+                  { type: "pending", label: "Silver Paper No.34.pdf", url: "" },
+                ]
+              },
+            ]
+          }
+        ]
+      },
+      {
+      id: "ETSAFETY",
+      title: "ET - සෞඛ්‍ය හා ආරක්ෂාව (SAFETY)",
+      badge: "ET සෞඛ්‍ය හා ආරක්ෂාව",
+      icon: "🩺",
+      color: "#0056b3",
+      cards: [
+        {
+          title: "🎥 Videos + Tutes",
+          items: [
+            {
+              id: "ETSAFETY-v-01",
+              num: "01",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 01",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 01 Video", url: "https://youtu.be/6e3JqIT15q8?si=7DvLwhubMOwkjASS" }]
+            },
+            {
+              id: "ETSAFETY-v-02",
+              num: "02",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 02",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 02 Video", url: "https://youtu.be/88sGTmAKPeE?si=cx5jhnXFEAkNQz39" }]
+            },
+            {
+              id: "ETSAFETY-v-03",
+              num: "03",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 03",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 03 Video", url: "https://youtu.be/dB_r1Krdot4?si=tYCybxZDU7qeEGyL" }]
+            },
+            {
+              id: "ETSAFETY-v-04",
+              num: "04",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 04",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 04 Video", url: "https://youtu.be/2V0Ukdq1Ui4?si=F5Q0v7LvMdSZ69fI" }]
+            },
+            {
+              id: "ETSAFETY-v-05",
+              num: "05",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 05",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 05 Video", url: "https://youtu.be/mJlH3lhTFas?si=g4llKs-A69ZnFlXS" }]
+            },
+            {
+              id: "ETSAFETY-v-06",
+              num: "06",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 06",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 06 Video", url: "https://youtu.be/48srXB-KD9w?si=tvYUT3Stm4Gd7yYw" }]
+            },
+            {
+              id: "ETSAFETY-v-07",
+              num: "07",
+              title: "සෞඛ්‍ය හා ආරක්ෂාව Day 07",
+              links: [{ type: "video", label: "▶ සෞඛ්‍ය හා ආරක්ෂාව Day 07 Video", url: "https://youtu.be/16arLJdsGWA?si=IcylfTwsiXLk0-F2" }]
+            }
+          ]
+        }
+      ]
+    },
+  {
+  id: "ETCIVILENGINEERING",
+  title: "ET - සිවිල් තාක්ෂණවේදය (CIVIL ENGINEERING)",
+  badge: "ET සිවිල් තාක්ෂණවේදය",
+  icon: "🛠️",
+  color: "#d0cfce",
+  cards: [
+    {
+      title: "🎥 Videos + Tutes",
+      items: [
+        {
+          id: "ETCIVILENGINEERING-v-01",
+          num: "01",
+          title: "සිවිල් තාක්ෂණවේදය Day 01",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 01 Video", url: "https://www.youtube.com/watch?v=BZkD3UlvCyg" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-02",
+          num: "02",
+          title: "සිවිල් තාක්ෂණවේදය Day 02",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 02 Video", url: "https://www.youtube.com/watch?v=i55PJiXEq8g" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-03",
+          num: "03",
+          title: "සිවිල් තාක්ෂණවේදය Day 03",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 03 Video", url: "https://www.youtube.com/watch?v=AE5BrJ_qhSE" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-04",
+          num: "04",
+          title: "සිවිල් තාක්ෂණවේදය Day 04",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 04 Video", url: "https://www.youtube.com/watch?v=niU1HWDPeZ4" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-05",
+          num: "05",
+          title: "සිවිල් තාක්ෂණවේදය Day 05",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 05 Video", url: "https://www.youtube.com/watch?v=XCEPjRU-uiM" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-06",
+          num: "06",
+          title: "සිවිල් තාක්ෂණවේදය Day 06",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 06 Video", url: "https://www.youtube.com/watch?v=USNqTuHenq8a" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-07",
+          num: "07",
+          title: "සිවිල් තාක්ෂණවේදය Day 07",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 07 Video", url: "https://www.youtube.com/watch?v=3cN3n5JPiH8" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-08",
+          num: "08",
+          title: "සිවිල් තාක්ෂණවේදය Day 08",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 08 Video", url: "https://www.youtube.com/watch?v=elqpvbxo5OY" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-09",
+          num: "09",
+          title: "සිවිල් තාක්ෂණවේදය Day 09",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 09 Video", url: "https://www.youtube.com/watch?v=zUaB_xmSRuw" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-10",
+          num: "10",
+          title: "සිවිල් තාක්ෂණවේදය Day 10",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 10 Video", url: "https://www.youtube.com/watch?v=kqOdGqHq6pE" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-11",
+          num: "11",
+          title: "සිවිල් තාක්ෂණවේදය Day 11",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 11 Video", url: "https://www.youtube.com/watch?v=tTSuhx6d0aw" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-12",
+          num: "12",
+          title: "සිවිල් තාක්ෂණවේදය Day 12",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 12 Video", url: "https://www.youtube.com/watch?v=xrnw0QwSubk" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-13",
+          num: "13",
+          title: "සිවිල් තාක්ෂණවේදය Day 13",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 13 Video", url: "https://www.youtube.com/watch?v=hEy5gphdWb4" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-14",
+          num: "14",
+          title: "සිවිල් තාක්ෂණවේදය Day 14",
+          links: [{ type: "pending", label: "▶ something went wrong", url: "https://www.youtube.com/watch?v=" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-15",
+          num: "15",
+          title: "සිවිල් තාක්ෂණවේදය Day 15",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 15 Video", url: "https://www.youtube.com/watch?v=-N9KpbxRG6Q" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-16",
+          num: "16",
+          title: "සිවිල් තාක්ෂණවේදය Day 16",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 16 Video", url: "https://www.youtube.com/watch?v=QY-yA-lKecQ" }]
+        },
+        {
+          id: "ETCIVILENGINEERING-v-17",
+          num: "17",
+          title: "සිවිල් තාක්ෂණවේදය Day 17",
+          links: [{ type: "video", label: "▶ සිවිල් තාක්ෂණවේදය Day 17 Video", url: "https://www.youtube.com/watch?v=fqVWHX4hxlo" }]
+        },
+      ]
+    }
+  ]
+},
+  {
+    id: "ETDRAWING",
+    title: "ET - ඉංජිනේරු ඇදීම (DRAWING)",
+    badge: "ET ඉංජිනේරු ඇදීම",
+    icon: "🎨",
+    color: "#e50d0d",
+    cards: [
+      {
+        title: "🎥 Videos + Tutes",
+        items: [
+          {
+            id: "ETDRAWING-v-01",
+            num: "01",
+            title: "ඉංජිනේරු ඇදීම Day 01",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 01 Video", url: "https://youtu.be/wdDhNEiNXMg?si=I6VgkVF5gW5iTT0K" }]
+          },
+          {
+            id: "ETDRAWING-v-02",
+            num: "02",
+            title: "ඉංජිනේරු ඇදීම Day 02",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 02 Video", url: "https://youtu.be/sVak5Qo993o?si=R0cULSPPfD0K6AYA" }]
+          },
+          {
+            id: "ETDRAWING-v-03",
+            num: "03",
+            title: "ඉංජිනේරු ඇදීම Day 03",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 03 Video", url: "https://youtu.be/CU2EnmFx6H8?si=-VsoA5wM6E8Qal2Y" }]
+          },
+          {
+            id: "ETDRAWING-v-04",
+            num: "04",
+            title: "ඉංජිනේරු ඇදීම Day 04",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 04 Video", url: "https://youtu.be/6rmcy99ms-4?si=iWYggBUzTePcf836" }]
+          },
+          {
+            id: "ETDRAWING-v-05",
+            num: "05",
+            title: "ඉංජිනේරු ඇදීම Day 05",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 05 Video", url: "https://youtu.be/fGAqhmtzMmo?si=xbDFiOqWt7cwFRsK" }]
+          },
+          {
+            id: "ETDRAWING-v-06",
+            num: "06",
+            title: "ඉංජිනේරු ඇදීම Day 06",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 06 Video", url: "https://youtu.be/8lbVKhgGVks?si=FGdLjM9G32yWvXAR" }]
+          },
+          {
+            id: "ETDRAWING-v-07",
+            num: "07",
+            title: "ඉංජිනේරු ඇදීම Day 07",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 07 Video", url: "https://youtu.be/63gtt4sHa3s?si=rW8qczoX1Ik9MgJ8" }]
+          },
+          {
+            id: "ETDRAWING-v-08",
+            num: "08",
+            title: "ඉංජිනේරු ඇදීම Day 08",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 08 Video", url: "https://youtu.be/u-jFU__I2pY?si=TDUHRc2Dl8j4vG3Y" }]
+          },
+          {
+            id: "ETDRAWING-v-09",
+            num: "09",
+            title: "ඉංජිනේරු ඇදීම Day 09",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 09 Video", url: "https://youtu.be/jpntwdrLEJA?si=kZlxpj20AKdJ-R81" }]
+          },,
+          {
+            id: "ETDRAWING-v-10",
+            num: "10",
+            title: "ඉංජිනේරු ඇදීම Day 10",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 10 Video", url: "https://youtu.be/1-PcI-vAeYc?si=yuHvYoqJhy5RWePE" }]
+          },
+          {
+            id: "ETDRAWING-v-11",
+            num: "11",
+            title: "ඉංජිනේරු ඇදීම Day 11 (විකසන 01)",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 11 Video", url: "https://youtu.be/bsXYPOLy4oo?si=xpOjY_0ZfPlXhN1S" }]
+          },,
+          {
+            id: "ETDRAWING-v-12",
+            num: "12",
+            title: "ඉංජිනේරු ඇදීම Day 12 (විකසන 02)",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 12 Video", url: "https://youtu.be/qlXeYQHOGEg?si=LFG5nAfjgZT71RUZ" }]
+          },
+          {
+            id: "ETDRAWING-v-13",
+            num: "13",
+            title: "ඉංජිනේරු ඇදීම Day 13 (විකසන 03)",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 13 Video", url: "https://youtu.be/BqppS4nDikU?si=nQ7Lddp-dQ_taBxn" }]
+          },,
+          {
+            id: "ETDRAWING-v-14",
+            num: "14",
+            title: "ඉංජිනේරු ඇදීම Day 14 (විකසන 04)",
+            links: [{ type: "video", label: "▶ ඉංජිනේරු ඇදීම Day 14 Video", url: "https://youtu.be/VlpKM3_jbKs?si=XDB58MmFaCmDPDts" }]
+          },
+        ]
+      }
+    ]
+  },
+
+  {
+  id: "upulweerasinghe",
+  title: "SFT - Upul Weerasinghe",
+  badge: "❤️හුස්ම වැටෙන SFT - උපුල් වීරසිංහ ",
+  icon: "❤️‍🔥",
+  color: "#0D1B2A",
+  cards: [
+    {
+      title: "❤️හුස්ම වැටෙන SFT - උපුල් වීරසිංහ , theory and revision",
+      items: [
+        {
+          id: "upulweerasinghe-TuteSet01",
+          num: "📁",
+          title: "November month tute set",
+          links: [
+            {
+              type: "pending",
+              label: "",
+              url: ""
+            }
+          ]
+        },
+        {
+          id: "upulweerasinghe-V001",
+          num: "01",
+          title: "2027 AL - ජෛවාණු - Day 05 (2026/11/06)",
+          links: [
+            {
+              type: "video",
+              label: "2027 - SFT | ජෛවාණු - Day 05 | Upul Weerasinghe",
+              url: "https://www.youtube.com/live/oUGI2F9Xa_A?si=lhZOcWT-uRNkAUYV"
+            }
+          ]
+        },
+        {
+          id: "upulweerasinghe-V002",
+          num: "02",
+          title: "2027 AL - චලිතය - Day 08 (2026/11/06)",
+          links: [
+            {
+              type: "video",
+              label: "2027 - SFT | චලිතය - Day 08 | Upul Weerasinghe",
+              url: "https://youtu.be/kKqBLKITB7k?si=LG0ug7p1eJR_chVZ"
+            }
+          ]
+        },
+        {
+          id: "upulweerasinghe-V003",
+          num: "03",
+          title: "2027 AL - විද්‍යුතය - Day 01 (2026/11/13)",
+          links: [
+            {
+              type: "video",
+              label: "2027 - SFT | විද්‍යුතය - Day 01 | Upul Weerasinghe",
+              url: "https://www.youtube.com/live/9MUuTskgrHs?si=mbPK2YnMeU_4Vxn2"
+            }
+          ]
+        },
+        {
+          id: "upulweerasinghe-V004",
+          num: "04",
+          title: "2027 AL - තාපය - Day 01 (2026/11/13) ",
+          links: [
+            {
+              type: "video",
+              label: "2027 - SFT | තාපය - Day 01 | Upul Weerasinghe",
+              url: "https://www.youtube.com/live/cHERU04nXlk?si=yIJpH-zf-dkw9fyI"
+            }
+          ]
+        },
+      ]
+    }
+  ]
+},
+
+  {
+    id: "ETjalaKasala",
+    title: "ET - ජල සම්පාදනය සහ කසල අපවහනය",
+    badge: "ET ජල සම්පාදනය සහ කසල අපවහනය recording",
+    icon: "💧",
+    color: "#0ea5e9",
+    cards: [
+      {
+        title: "🎥 Videos + Tutes",
+        items: [
+          {
+            id: "water-drive",
+            num: "📁",
+            title: "All Tutes (Drive)",
+            links: [
+              {
+                type: "drive",
+                label: "📂 Drive Folder",
+                url: "https://drive.google.com/drive/folders/1vbbg10hMvcIuGZ95arj3hsrdMpDD3OAK?usp=sharing"
+              }
+            ]
+          },
+          {
+            id: "water-v-01",
+            num: "01",
+            title: "WATER 01",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/eh8VmLwnLyE?si=QNHTtSeoAMqcksa4" }]
+          },
+          {
+            id: "water-v-02",
+            num: "02",
+            title: "WATER 02",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/A7KblVBxdkg?si=I4Qp6MZxsFMty_f4" }]
+          },
+          {
+            id: "water-v-03",
+            num: "03",
+            title: "WATER 03",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/IcPuPyyEHCI?si=rDUVkDytWSMx5q9H" }]
+          },
+          {
+            id: "water-v-04",
+            num: "04",
+            title: "WATER 04",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/r7k4hubK6UI?si=wr25ozzwWq0LWo_A" }]
+          },
+          {
+            id: "water-v-05",
+            num: "05",
+            title: "WATER 05",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/KKeYTINDcfk?si=a2M1vIKwoq0qgt17" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: "ETElectrical",
+    title: "ET – Electrical Recordings",
+    badge: "BASIC Electrical",
+    icon: "⚡",
+    color: "#3b82f6",
+    cards: [
+      {
+        title: "🎥 BASIC ELEC Video Recordings (01–15)",
+        items: [
+          {
+            id: "ET-drive",
+            num: "📁",
+            title: "Tutes (Drive)",
+            links: [
+              {
+                type: "drive",
+                label: "📂 Drive Folder",
+                url: "https://drive.google.com/drive/folders/1PgAROpZYXrF-7-pETNt4jyHz-Wu37UfY?usp=drive_link"
+              }
+            ]
+          },
+          {
+            id: "et-v-01",
+            num: "01",
+            title: "BASIC ELEC 01",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/5yfogCUco_U?si=dUmGCJTfKoPrLzLn" }]
+          },
+          {
+            id: "et-v-02",
+            num: "02",
+            title: "BASIC ELEC 02",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=Z3o5lupe6J0" }]
+          },
+          {
+            id: "et-v-03",
+            num: "03",
+            title: "BASIC ELEC 03",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/S8pvy6srQ4k?si=KUsLzXEanaYhawgV" }]
+          },
+          {
+            id: "et-v-04",
+            num: "04",
+            title: "BASIC ELEC 04",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/e5vTgSVxUCY?si=H7DxJRyK0vz_1r1Q" }]
+          },
+          {
+            id: "et-v-05",
+            num: "05",
+            title: "BASIC ELEC 05",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/ycZxbkFv670?si=vrC2TyFwa_tstrrS" }]
+          },
+          {
+            id: "et-v-06",
+            num: "06",
+            title: "BASIC ELEC 06",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=PhmS8h-rvTY" }]
+          },
+          {
+            id: "et-v-07",
+            num: "07",
+            title: "BASIC ELEC 07",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=xjrU2Jryoi8" }]
+          },
+          {
+            id: "et-v-08",
+            num: "08",
+            title: "BASIC ELEC 08",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=CuKxfB9fwss" }]
+          },
+          {
+            id: "et-v-09",
+            num: "09",
+            title: "BASIC ELEC 09",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=RJYpoxwd__4" }]
+          },
+          {
+            id: "et-v-10",
+            num: "10",
+            title: "BASIC ELEC 10",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=ZerLMj67jVQ" }]
+          },
+          {
+            id: "et-v-11",
+            num: "11",
+            title: "BASIC ELEC 11",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=c12ODmklgL0" }]
+          },
+          {
+            id: "et-v-12",
+            num: "12",
+            title: "BASIC ELEC 12",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=U_omw5Lsdk4" }]
+          },
+          {
+            id: "et-v-13",
+            num: "13",
+            title: "BASIC ELEC 13",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=3YuOy03qnMA" }]
+          },
+          {
+            id: "et-v-14",
+            num: "14",
+            title: "BASIC ELEC 14",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=6sJs02BmhNk" }]
+          },
+          {
+            id: "et-v-15",
+            num: "15",
+            title: "BASIC ELEC 15",
+            links: [{ type: "video", label: "▶ Video", url: "https://www.youtube.com/watch?v=9hn94X1CzVk" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "id": "ETElectronic",
+  "title": "ET – Electronic Recordings",
+  "badge": "ET Electronic Recordings",
+  "icon": "🔌",
+  "color": "#0ea5e9",
+  "cards": [
+    {
+      "title": "🎥 Videos + Tutes",
+      "items": [
+        {
+          "id": "ETElectronic-V-01",
+          "num": "01",
+          "title": "ELECTRONICS Short Note + අනුමාන සාකච්ඡාව",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/K52s3rkp54U?si=xVCn2eBUTUde4DJv"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-02",
+          "num": "02",
+          "title": "ELECTRONICS Short Notes + අනුමාන ප්‍රශ්න",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/rR6HSljHuNg?si=8Cv2IiyHo4PBBv_D"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-03",
+          "num": "03",
+          "title": "ELECTRONICS Short Note + අනුමාන සාකච්ඡාව",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/BKGujVLySY0?si=P-zS7KltlZCFpvlk"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-04",
+          "num": "04",
+          "title": "ELECTRONICS Short Note + අනුමාන සාකච්ඡාව",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/uk0cth30a2M?si=o1ReAapiVIlZ2G0F"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-05",
+          "num": "05",
+          "title": "ELECTRONICS Short Note + අනුමාන සාකච්ඡාව",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/dymzvpQugaQ?si=ACCdLSSlZkVehono"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-06",
+          "num": "06",
+          "title": "ELECTRONICS අනුමාන සාකච්ඡාව – ක්ෂේත්‍ර ආචරණ ට්‍රාන්සිස්ටර",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/sLLDnYIvuKg?si=1tEwDEMoFzIJsCME"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-07",
+          "num": "07",
+          "title": "ELECTRONICS – JFET ක්‍රියාකාරීත්වය හා ගැටලු විසදීම",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/s_nILOt8TQE?si=r9RxM5zuBbt-Igid"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-08",
+          "num": "08",
+          "title": "ELECTRONICS – OP-AMPS",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/7aj5_6qIrR8?si=r4iLC0trxhoIjUEr"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-09",
+          "num": "09",
+          "title": "ELECTRONICS – OP-AMPS",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/72JjMJbK8x4?si=OwAr8-X6fclO_K7n"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-10",
+          "num": "10",
+          "title": "ELECTRONICS – OP-AMPS ගැටලු",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/UZ0HZ7TLN1U?si=O7qmek3MssuLbLKQ"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-11",
+          "num": "11",
+          "title": "ELECTRONICS – SEVEN SEGMENT DISPLAY",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/rUOpoxZL7Hs?si=wncgtk2jKuCUSaSs"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-12",
+          "num": "12",
+          "title": "ELECTRONICS – FLIP FLOP",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/eoJVqPQvCPk?si=fe8qEb00L4KuLnqe"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-13",
+          "num": "13",
+          "title": "ELECTRONICS – Day 13",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/4WrkM8Ofb0k?si=AxU9FbSKI1XUeNwx"
+            }
+          ]
+        },
+        {
+          "id": "ETElectronic-V-14",
+          "num": "14",
+          "title": "ELECTRONICS – Day 14",
+          "links": [
+            {
+              "type": "video",
+              "label": "▶ Video",
+              "url": "https://www.youtube.com/live/zzLV4fQEbDo?si=9e5EZo3fVJOHQdGq"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+  {
+    id: "SFTIT",
+    title: "SFT IT part",
+    badge: "SFT IT all units",
+    icon: "💻",
+    color: "#8b5cf6",
+    cards: [
+      {
+        title: "SFT IT lessons",
+        items: [
+          {
+            id: "SFTIT-01",
+            num: "01",
+            title: "Operating systems Video 01",
+            links: [{ type: "video", label: "▶ Recording", url: "https://youtu.be/0rttn8EeueY" }]
+          },
+          {
+            id: "SFTIT-02",
+            num: "02",
+            title: "Operating systems Video 02",
+            links: [{ type: "video", label: "▶ Recording", url: "https://youtu.be/g0NGXQbNq34" }]
+          },
+          {
+            id: "SFTIT-03",
+            num: "03",
+            title: "Internet & Email Video 01",
+            links: [{ type: "video", label: "▶ Recording", url: "https://youtu.be/hcyM6rQQ-ds" }]
+          },
+          {
+            id: "SFTIT-04",
+            num: "04",
+            title: "Word Video 01",
+            links: [{ type: "video", label: "▶ Recording", url: "https://youtu.be/0flFAnYCZS4" }]
+          },
+          {
+            id: "SFTIT-05",
+            num: "05",
+            title: "PowerPoint Video 01",
+            links: [{ type: "video", label: "▶ Recording", url: "https://youtu.be/YnG-YD0xGwA" }]
+          },
+          {
+            id: "SFTIT-06",
+            num: "06",
+            title: "Excel Video 01",
+            links: [
+              {
+                type: "video",
+                label: "▶ Recording",
+                url: "https://youtu.be/Ep9_hRLJsB8?si=ASJvNQRlEXJXDoK-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: "ETHADINWEEMA",
+    title: "ET - හැඳින්වීම",
+    badge: "ET හැඳින්වීම recording",
+    icon: "ℹ️",
+    color: "#0f172a",
+    cards: [
+      {
+        title: "🎥 Videos + Tutes",
+        items: [
+          {
+            id: "ETHADINWEEMA-drive",
+            num: "📁",
+            title: "All Tutes (Drive)",
+            links: [
+              {
+                type: "drive",
+                label: "📂 Drive Folder",
+                url: "https://drive.google.com/drive/folders/13gOb5cvYCdYy3mfMMYeqULG4Gx9HSVyv"
+              }
+            ]
+          },
+          {
+            id: "ETHADINWEEMA-v-01",
+            num: "01",
+            title: "හැඳින්වීම Day 01",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/B9f9lqDu4y4?si=l4zMYHoxRRbvOOa_" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-02",
+            num: "02",
+            title: "හැඳින්වීම Day 02",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/08gUtKH_9S8?si=IGsllEsIkZ5neUup" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-03",
+            num: "03",
+            title: "හැඳින්වීම Day 03",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/Rrpayi7tuY0?si=S8UJUooFY0V3MxfK" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-04",
+            num: "04",
+            title: "හැඳින්වීම Day 04",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/vpx2HWc3rew?si=CMjt6umfo0OX-WP7" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-05",
+            num: "05",
+            title: "හැඳින්වීම Day 05",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/KZccmrLr7zg?si=bv0Dt-00SdAtFFDd" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-06",
+            num: "06",
+            title: "හැඳින්වීම Day 06",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/dzDVnHOl--0?si=vatyJVeXWruBT5lh" }]
+          },
+          {
+            id: "ETHADINWEEMA-v-07",
+            num: "07",
+            title: "හැඳින්වීම Day 07",
+            links: [{ type: "video", label: "▶ Video", url: "https://youtu.be/IjTNqOrOmBE?si=__xKJ-ol9LMaaJ97" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+      "id": "WyawasayakathwayaHaaKalamanakaranaya",
+      "title": "ET - ව්‍යවසායකත්වය හා කළමනාකරණය",
+      "badge": "ET ව්‍යවසායකත්වය හා කළමනාකරණය recording",
+      "icon": "💼",
+      "color": "#059669",
+      "cards": [
+        {
+          "title": "🎥 Videos + Tutes",
+          "items": [
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-1",
+              "num": "01",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 01",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/orfirsFHp0Q?si=xjYfG6pPAoSSkqyN"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-2",
+              "num": "02",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 02",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/8JYHI4kpfJY?si=edo1mSWDs5eUPtCY"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-3",
+              "num": "03",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 03",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/KFdP0R9N4Y8?si=tNfRhbZE7fP46awU"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-4",
+              "num": "04",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 04",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/OXeCWwoEjDI?si=FA49I60mk5vUOWAo"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-5",
+              "num": "05",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 05",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/UTdVtfu-xLM?si=bnhTC7ndCvi8Hf5X"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-6",
+              "num": "06",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 06",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/O11DPsh2ag4?si=lzlZqKVs_v0xZZkM"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-7",
+              "num": "07",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 07",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/RX4QGSQcpGQ?si=nhOZNecE9pvu9TnZ"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-8",
+              "num": "08",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 08",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/bLF9_GRPch8?si=Xh8esiiAvDPUMDAx"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-9",
+              "num": "09",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 09",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://www.youtube.com/live/kYuWAXF331c?si=_QGhp_4OAoVcN5FD"
+                }
+              ]
+            },
+            {
+              "id": "WyawasayakathwayaHaaKalamanakaranaya-V-10",
+              "num": "10",
+              "title": "ව්‍යවසායකත්වය හා කළමනාකරණය Day 10",
+              "links": [
+                {
+                  "type": "video",
+                  "label": "▶ ව්‍යවසායකත්වය හා කළමනාකරණය Video",
+                  "url": "https://youtu.be/I4IPKotwxFA?si=U9jaJPOt7mvnEqq0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+  {
+    id: "AUTOMOBILE",
+    title: "AUTOMOBILE - මූලික ස්වයංචලන තාක්ෂණවේදය",
+    badge: "AUTOMOBILE recording",
+    icon: "🚗",
+    color: "#1e3a8a",
+    cards: [
+      {
+        title: "🎥 Videos + Tutes",
+        items: [
+          {
+            id: "AUTOMOBILE-v-01",
+            num: "01",
+            title: "AUTOMOBILE Day 01",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://www.youtube.com/watch?v=TCzLVclyQig"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-02",
+            num: "02",
+            title: "AUTOMOBILE Day 02",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/7J2MQGgVWHk?si=p9oBawSEIaHaRy4L"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-03",
+            num: "03",
+            title: "AUTOMOBILE Day 03",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/IPL5eyRiZv8?si=ZGrR8-G2VewYjZAM"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-04",
+            num: "04",
+            title: "AUTOMOBILE Day 04",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/bgrT1frWPQ0?si=cRKqThqAsihEpk5p"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-05",
+            num: "05",
+            title: "AUTOMOBILE Day 05",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/SSw7kfq0rSs?si=3QYZyarppz1i0-Oa"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-06",
+            num: "06",
+            title: "AUTOMOBILE Day 06",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/uAFBAxeRkk0?si=_Srod5Ieael3ZlUT"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-07",
+            num: "07",
+            title: "AUTOMOBILE Day 07",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://www.youtube.com/live/iaP-0zzMB_w?si=0IPo5YnDB2Qzo7L0"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-08",
+            num: "08",
+            title: "AUTOMOBILE Day 08",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/CT6qbPli6VE?si=pKPaQLvuWzp2LXF7"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-09",
+            num: "09",
+            title: "AUTOMOBILE Day 09",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/BN-nLYQ1YzQ?si=8q2AzmGt_qxk8NRP"
+              }
+            ]
+          },
+          {
+            id: "AUTOMOBILE-v-10",
+            num: "10",
+            title: "AUTOMOBILE Day 10",
+            links: [
+              {
+                type: "video",
+                label: "▶ Video",
+                url: "https://youtu.be/7jv6eqCBRfU?si=PmI2NP6qQpQ7Qwht"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  id: "FREE-CLASSES",
+  title: "Free Classes for all A/L tech subjects",
+  badge: "Free Classes",
+  icon: "🆓",
+  color: "#22c55e",
+  cards: [
+    {
+      title: "🎥 Free Class Playlists",
+      items: [
+        {
+          id: "free-hadinweema",
+          num: "01",
+          title: "ET - හැඳින්වීම",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/znQGE"
+            }
+          ]
+        },
+        {
+          id: "free-safety",
+          num: "02",
+          title: "ET - සෞඛ්‍ය හා ආරක්ෂාව (SAFETY)",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/sj1C3"
+            }
+          ]
+        },
+        {
+          id: "free-civil",
+          num: "03",
+          title: "ET - සිවිල් තාක්ෂණවේදය (CIVIL ENGINEERING)",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/VbPrv"
+            }
+          ]
+        },
+        {
+          id: "free-drawing",
+          num: "04",
+          title: "ET - ඉංජිනේරු ඇදීම (DRAWING)",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/XgZ5V"
+            }
+          ]
+        },
+        {
+          id: "free-water",
+          num: "05",
+          title: "ET - ජල සම්පාදනය සහ කසල අපවහනය",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://ln.run/wBXL7"
+            }
+          ]
+        },
+        {
+          id: "free-AUTOMOBILE",
+          num: "06",
+          title: "ET - AUTOMOBILE - මූලික ස්වයංචලන තාක්ෂණවේදය",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/2PZyx"
+            }
+          ]
+        },
+        {
+          id: "free-electrical",
+          num: "07",
+          title: "ET - Electrical Recordings",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://ln.run/kUOAY"
+            }
+          ]
+        },
+        {
+          id: "free-SFTICT",
+          num: "08",
+          title: "SFT - SFT IT part",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/WYq76"
+            }
+          ]
+        },
+        {
+          id: "free-SFT-paper",
+          num: "09",
+          title: "SFT - SFT Paper Discussion",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/19umZ"
+            }
+          ]
+        },
+        {
+          id: "free-WyawasayakathwayaHaaKalamanakaranaya",
+          num: "10",
+          title: "ET - ව්‍යවසායකත්වය හා කළමනාකරණය",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/yULOe"
+            }
+          ]
+        },
+        {
+          id: "free-ETElectronic",
+          num: "11",
+          title: "ET – Electronic Recordings",
+          links: [
+            {
+              type: "video",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/AADh0"
+            }
+          ]
+        },
+        {
+          id: "free-polimar",
+          num: "12",
+          title: "SFT – Polimar free lesson",
+          links: [
+            {
+              type: "pending",
+              label: "▶ Free Class",
+              url: "https://shorturl.at/QPNbl"
+            }
+          ]
+        },
+     ]
+    }
+  ]
+},
+];
